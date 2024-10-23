@@ -1,0 +1,73 @@
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\bin\Debug\net6.0-windows\EncryptionApp.exe
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\bin\Debug\net6.0-windows\EncryptionApp.deps.json
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\bin\Debug\net6.0-windows\EncryptionApp.runtimeconfig.json
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\bin\Debug\net6.0-windows\EncryptionApp.dll
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\bin\Debug\net6.0-windows\EncryptionApp.pdb
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.csproj.AssemblyReference.cache
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp_MarkupCompile.cache
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp_MarkupCompile.lref
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.g.resources
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.AssemblyInfoInputs.cache
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.AssemblyInfo.cs
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.csproj.CoreCompileInputs.cache
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.dll
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\refint\EncryptionApp.dll
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.pdb
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.genruntimeconfig.cache
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\ref\EncryptionApp.dll
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\bin\Debug\net6.0-windows\ClassLibrary.dll
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\bin\Debug\net6.0-windows\ClassLibrary.pdb
+C:\Coding\vs studio\projects\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.csproj.CopyComplete
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\bin\Debug\net6.0-windows\EncryptionApp.exe
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\bin\Debug\net6.0-windows\EncryptionApp.deps.json
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\bin\Debug\net6.0-windows\EncryptionApp.runtimeconfig.json
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\bin\Debug\net6.0-windows\EncryptionApp.dll
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\bin\Debug\net6.0-windows\EncryptionApp.pdb
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\bin\Debug\net6.0-windows\ClassLibrary.dll
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\bin\Debug\net6.0-windows\ClassLibrary.pdb
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.csproj.AssemblyReference.cache
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\App.g.cs
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp_MarkupCompile.cache
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp_MarkupCompile.lref
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\MainWindow.baml
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.g.resources
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.AssemblyInfoInputs.cache
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.AssemblyInfo.cs
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.csproj.CoreCompileInputs.cache
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.csproj.CopyComplete
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.dll
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\refint\EncryptionApp.dll
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.pdb
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.genruntimeconfig.cache
+D:\2Курс\DotNET\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\ref\EncryptionApp.dll
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\bin\Debug\net6.0-windows\EncryptionApp.exe
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\bin\Debug\net6.0-windows\EncryptionApp.deps.json
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\bin\Debug\net6.0-windows\EncryptionApp.runtimeconfig.json
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\bin\Debug\net6.0-windows\EncryptionApp.dll
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\bin\Debug\net6.0-windows\EncryptionApp.pdb
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\bin\Debug\net6.0-windows\ClassLibrary.dll
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\bin\Debug\net6.0-windows\ClassLibrary.pdb
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp_MarkupCompile.cache
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp_MarkupCompile.lref
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.g.resources
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.AssemblyInfo.cs
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.sourcelink.json
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\Encrypti.2055E9A8.Up2Date
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.dll
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\refint\EncryptionApp.dll
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.pdb
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\EncryptionApp.genruntimeconfig.cache
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\EncryptionApp\obj\Debug\net6.0-windows\ref\EncryptionApp.dll

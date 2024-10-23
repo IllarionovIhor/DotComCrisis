@@ -1,0 +1,36 @@
+C:\Coding\vs studio\projects\dotnet_lab3\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+C:\Coding\vs studio\projects\dotnet_lab3\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+C:\Coding\vs studio\projects\dotnet_lab3\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Coding\vs studio\projects\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Coding\vs studio\projects\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\vs studio\projects\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Coding\vs studio\projects\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+C:\Coding\vs studio\projects\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Coding\vs studio\projects\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+C:\Coding\vs studio\projects\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+C:\Coding\vs studio\projects\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+C:\Coding\vs studio\projects\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
+D:\2Курс\DotNET\dotnet_lab3\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+D:\2Курс\DotNET\dotnet_lab3\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+D:\2Курс\DotNET\dotnet_lab3\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+D:\2Курс\DotNET\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.AssemblyReference.cache
+D:\2Курс\DotNET\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\2Курс\DotNET\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\2Курс\DotNET\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+D:\2Курс\DotNET\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\2Курс\DotNET\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+D:\2Курс\DotNET\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+D:\2Курс\DotNET\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+D:\2Курс\DotNET\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ClassLibrary\bin\Debug\net6.0\ClassLibrary.deps.json
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ClassLibrary\bin\Debug\net6.0\ClassLibrary.dll
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ClassLibrary\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.sourcelink.json
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.dll
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\refint\ClassLibrary.dll
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ClassLibrary.pdb
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ClassLibrary\obj\Debug\net6.0\ref\ClassLibrary.dll

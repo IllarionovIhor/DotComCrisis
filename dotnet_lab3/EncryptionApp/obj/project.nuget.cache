@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pxvpnFOTf8NENjw01p3a2aRlFirqT3PkoGM9G/f/tL6tXQcWjJDwlVRnS9COKce2WNOa+Xc5o6wdpbKdjYdW5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\UNI\\SUBJECTS ARCHIVE\\C2-S1\\.net\\DotNet2\\dotnet_lab3\\EncryptionApp\\EncryptionApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

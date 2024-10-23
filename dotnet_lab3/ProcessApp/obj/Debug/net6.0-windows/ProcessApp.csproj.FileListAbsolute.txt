@@ -1,0 +1,73 @@
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\bin\Debug\net6.0-windows\ProcessApp.exe
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\bin\Debug\net6.0-windows\ProcessApp.deps.json
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\bin\Debug\net6.0-windows\ProcessApp.runtimeconfig.json
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\bin\Debug\net6.0-windows\ProcessApp.dll
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\bin\Debug\net6.0-windows\ProcessApp.pdb
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.csproj.AssemblyReference.cache
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp_MarkupCompile.cache
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp_MarkupCompile.lref
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.g.resources
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.AssemblyInfoInputs.cache
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.AssemblyInfo.cs
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.csproj.CoreCompileInputs.cache
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.dll
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\refint\ProcessApp.dll
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.pdb
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.genruntimeconfig.cache
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ref\ProcessApp.dll
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\bin\Debug\net6.0-windows\ClassLibrary.dll
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\bin\Debug\net6.0-windows\ClassLibrary.pdb
+C:\Coding\vs studio\projects\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.csproj.CopyComplete
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\bin\Debug\net6.0-windows\ProcessApp.exe
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\bin\Debug\net6.0-windows\ProcessApp.deps.json
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\bin\Debug\net6.0-windows\ProcessApp.runtimeconfig.json
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\bin\Debug\net6.0-windows\ProcessApp.dll
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\bin\Debug\net6.0-windows\ProcessApp.pdb
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\bin\Debug\net6.0-windows\ClassLibrary.dll
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\bin\Debug\net6.0-windows\ClassLibrary.pdb
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.csproj.AssemblyReference.cache
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\App.g.cs
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp_MarkupCompile.cache
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp_MarkupCompile.lref
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\MainWindow.baml
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.g.resources
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.AssemblyInfoInputs.cache
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.AssemblyInfo.cs
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.csproj.CoreCompileInputs.cache
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.csproj.CopyComplete
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.dll
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\refint\ProcessApp.dll
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.pdb
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.genruntimeconfig.cache
+D:\2Курс\DotNET\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ref\ProcessApp.dll
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\bin\Debug\net6.0-windows\ProcessApp.exe
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\bin\Debug\net6.0-windows\ProcessApp.deps.json
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\bin\Debug\net6.0-windows\ProcessApp.runtimeconfig.json
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\bin\Debug\net6.0-windows\ProcessApp.dll
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\bin\Debug\net6.0-windows\ProcessApp.pdb
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\bin\Debug\net6.0-windows\ClassLibrary.dll
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\bin\Debug\net6.0-windows\ClassLibrary.pdb
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp_MarkupCompile.cache
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp_MarkupCompile.lref
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.g.resources
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.AssemblyInfo.cs
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.sourcelink.json
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.csproj.Up2Date
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.dll
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\refint\ProcessApp.dll
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.pdb
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ProcessApp.genruntimeconfig.cache
+C:\Users\user\Desktop\UNI\SUBJECTS ARCHIVE\C2-S1\.net\DotNet2\dotnet_lab3\ProcessApp\obj\Debug\net6.0-windows\ref\ProcessApp.dll
